@@ -1,0 +1,81 @@
+📄 DỰ ÁN KIỂM THỬ THỦ CÔNG – MORIITALIA.COM  
+📅 Thời gian thực hiện: Từ 15.09.2025 đến 10.10.2025  
+👤 Người thực hiện: Top (Solo QA)
+
+─────────────────────────────────────────────
+🎯 MỤC TIÊU DỰ ÁN:
+- Thực hiện kiểm thử chức năng cho website thương mại điện tử Moriitalia.com bằng phương pháp kiểm thử thủ công (manual testing).
+- Đảm bảo các chức năng chính hoạt động đúng theo yêu cầu người dùng cuối.
+- Phát hiện và ghi nhận các lỗi (bug) tiềm ẩn trước khi website được triển khai chính thức hoặc cập nhật phiên bản mới.
+
+─────────────────────────────────────────────
+📌 KỲ VỌNG:
+- Viết đầy đủ và rõ ràng các test case cho các chức năng chính của website.
+- Thực hiện kiểm thử toàn bộ test case bằng phương pháp manual.
+- Ghi nhận tất cả lỗi phát hiện được vào Defect Log.
+- Tổng hợp kết quả kiểm thử thành báo cáo cuối kỳ.
+- Đảm bảo tỷ lệ test case được thực hiện ≥ 95%, tỷ lệ pass ≥ 85%.
+
+─────────────────────────────────────────────
+📈 KẾT QUẢ THU ĐƯỢC:
+- Tổng số test case: 120  
+- Số test case thực hiện: 120  
+- Số test case pass: 108  
+- Số bug ghi nhận: 17  
+- Số bug nghiêm trọng (critical): 3  
+- Báo cáo tổng hợp được lưu tại: `Sumary Report.xlsx`
+
+─────────────────────────────────────────────
+📁 CẤU TRÚC THƯ MỤC DỰ ÁN:
+
+├── 1.Read Me.txt  
+├── Defect Log.xlsx  
+├── Manual Testing - Moriitalia.com.xlsx  
+├── Smoke Testing - Moriitalia.com.xlsx  
+└── Sumary Report.xlsx  
+
+**Giải thích:**
+- `Defect Log.xlsx`: Ghi nhận chi tiết các lỗi phát hiện trong quá trình kiểm thử.
+- `Manual Testing - Moriitalia.com.xlsx`: Danh sách test case đầy đủ cho các chức năng chính.
+- `Smoke Testing - Moriitalia.com.xlsx`: Kiểm thử nhanh các chức năng quan trọng để xác nhận hệ thống ổn định.
+- `Sumary Report.xlsx`: Báo cáo tổng kết kết quả kiểm thử, thống kê lỗi, tỷ lệ pass/fail.
+
+─────────────────────────────────────────────
+🛠 PHƯƠNG PHÁP KIỂM THỬ:
+
+- **Loại kiểm thử**: Functional Testing  
+- **Kỹ thuật áp dụng**: Black Box Testing  
+- **Phương pháp thực hiện**: Manual Testing (kiểm thử thủ công)
+
+─────────────────────────────────────────────
+📅 TIMELINE DỰ ÁN (PHÂN THEO SPRINT):
+
+🔹 **Sprint 1: Phân tích & Thiết kế Test Case**  
+⏱ Thời gian: 15.09.2025 – 20.09.2025  
+📌 Hoạt động:
+- Phân tích chức năng website Moriitalia.com
+- Viết test case cho các chức năng chính
+- Chuẩn bị file `Manual Testing - Moriitalia.com.xlsx`
+
+🔹 **Sprint 2: Thực hiện kiểm thử & Ghi nhận lỗi**  
+⏱ Thời gian: 21.09.2025 – 01.10.2025  
+📌 Hoạt động:
+- Thực hiện test case thủ công
+- Ghi nhận lỗi vào `Defect Log.xlsx`
+- Kiểm thử smoke test để xác nhận hệ thống ổn định
+
+🔹 **Sprint 3: Tổng hợp & Báo cáo kết quả**  
+⏱ Thời gian: 02.10.2025 – 10.10.2025  
+📌 Hoạt động:
+- Tổng hợp kết quả kiểm thử
+- Phân tích lỗi theo mức độ nghiêm trọng
+- Viết báo cáo tổng kết vào `Sumary Report.xlsx`
+- Đánh giá chất lượng website trước khi release
+
+─────────────────────────────────────────────
+📬 LIÊN HỆ:
+Người thực hiện: Top  
+Email: [điền email nếu cần]  
+Website kiểm thử: [https://moriitalia.com](https://moriitalia.com)
+
+─────────────────────────────────────────────

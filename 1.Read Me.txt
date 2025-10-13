@@ -1,0 +1,57 @@
+📄 Project: Manual Testing – Moriitalia.com  
+📅 Thời gian thực hiện: Từ 15.09.2025  
+👤 Người thực hiện: Một mình (Solo QA)
+
+─────────────────────────────────────────────
+🔍 Mục tiêu dự án:
+Thực hiện kiểm thử chức năng cho website thương mại điện tử Moriitalia.com nhằm đảm bảo các chức năng chính hoạt động đúng theo yêu cầu người dùng và không phát sinh lỗi nghiêm trọng trong quá trình sử dụng.
+
+─────────────────────────────────────────────
+🧪 Phương pháp kiểm thử:
+- **Loại kiểm thử**: Functional Testing  
+- **Kỹ thuật áp dụng**: Black Box Testing  
+- **Phương pháp thực hiện**: Manual Testing (kiểm thử thủ công)
+
+─────────────────────────────────────────────
+📁 Cấu trúc thư mục dự án:
+
+├── 1.Read Me.txt  
+├── Defect Log.xlsx  
+├── Manual Testing - Moriitalia.com.xlsx  
+├── Smoke Testing - Moriitalia.com.xlsx  
+└── Sumary Report.xlsx  
+
+**Giải thích:**
+- `Defect Log.xlsx`: Ghi lại tất cả lỗi phát hiện trong quá trình kiểm thử.
+- `Manual Testing - Moriitalia.com.xlsx`: Danh sách test case chi tiết cho các chức năng chính.
+- `Smoke Testing - Moriitalia.com.xlsx`: Kiểm thử nhanh các chức năng quan trọng để xác nhận hệ thống ổn định.
+- `Sumary Report.xlsx`: Báo cáo tổng kết kết quả kiểm thử, thống kê lỗi, tỷ lệ pass/fail.
+
+─────────────────────────────────────────────
+🛠 Quy trình thực hiện:
+
+1. **Phân tích yêu cầu website Moriitalia.com**
+   - Dựa trên giao diện và hành vi người dùng thực tế.
+
+2. **Thiết kế test case**
+   - Viết test case cho các chức năng như đăng nhập, tìm kiếm sản phẩm, thêm vào giỏ hàng, thanh toán, quản lý đơn hàng...
+
+3. **Thực hiện test case**
+   - Kiểm thử thủ công từng bước theo test case đã viết.
+
+4. **Ghi nhận lỗi (bug)**
+   - Ghi lại lỗi vào file `Defect Log.xlsx` kèm mô tả, bước tái hiện, mức độ nghiêm trọng.
+
+5. **Tổng hợp kết quả**
+   - Báo cáo tỷ lệ test case pass/fail, phân tích lỗi, đề xuất cải tiến.
+
+─────────────────────────────────────────────
+📌 Ghi chú:
+- Dự án được thực hiện độc lập bởi một người, không sử dụng công cụ tự động.
+- Website kiểm thử: [https://moriitalia.com](https://moriitalia.com)
+- Các lỗi được ghi nhận dựa trên hành vi thực tế và phản hồi từ giao diện người dùng.
+
+─────────────────────────────────────────────
+📬 Liên hệ:
+Nếu cần thêm thông tin hoặc tài liệu chi tiết, vui lòng liên hệ qua email cá nhân của người thực hiện (nếu có).
+
