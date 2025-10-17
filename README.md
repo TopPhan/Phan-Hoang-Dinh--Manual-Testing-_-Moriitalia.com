@@ -38,7 +38,6 @@
 
 📁 Project Tree:
 
-├── Read Me_en.txt  
 ├── Read Me_vn.txt
 
 ├── Screenshots
