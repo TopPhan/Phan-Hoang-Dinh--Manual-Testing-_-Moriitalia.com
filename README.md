@@ -1,14 +1,17 @@
 📄 Project: Manual Testing – https://moriitalia.com  
-📅 Execution Period: September 28, 2025 – October 17, 2025 
+📅 Execution Period: September 28, 2025 – October 17, 2025
+
 👤 Tester: Hoàng Đỉnh
 
 ─────────────────────────────────────────────
+
 🧪 Testing Methodology:
 - **Testing Type**: Functional Testing  
 - **Technique Applied**: Black Box Testing  
 - **Execution Method**: Manual Testing
 
 ─────────────────────────────────────────────
+
 🎯 Goal:
 - To perform functional testing on the Moriitalia.com e-commerce website using a manual testing.
 - To ensure that the core functionalities operate correctly according to end-user requirements.
@@ -22,6 +25,7 @@
 - Maintain a Test Case Execution Rate ≥ 90% and a Pass Rate ≥ 85%.
 
 ─────────────────────────────────────────────
+
 📈 Results Achieved:
 - Total Number of Test Cases: 216
 - Test Cases Executed: 166
@@ -31,13 +35,17 @@
 - Summary Report Location: `Sumary Report.xlsx`
 
 ─────────────────────────────────────────────
+
 📁 Project Tree:
-├── Read Me_Eng.txt:
 
 ├── Read Me_en.txt  
 ├── Read Me_vn.txt
-├── Screenshots __ Functional Testing
-                __ Smoke Testing
+
+├── Screenshots
+
+        ├── Functional Testing
+		
+        └── Smoke Testing
 				
 ├── Defect Log.xlsx  
 ├── Functional Testing - Moriitalia.com.xlsx  
@@ -51,6 +59,7 @@
 - `Sumary Report.xlsx`: Final report summarizing test results, bug statistics, and pass/fail rates.
 
 ─────────────────────────────────────────────
+
 📅 Project Timeline (Sprint):
 
 🔹 **Sprint 1: Analysis & Test Case Design**  
@@ -76,6 +85,7 @@
 - Assessing website quality before release.
 
 ─────────────────────────────────────────────
+
 📬 Notes:
 - The project was conducted independently by a single tester, without the use of automation tools.
 - Defects were logged based on actual behavior and user interface feedback.
