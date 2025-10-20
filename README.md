@@ -38,7 +38,6 @@
 
 📁 Project Tree:
 
-├── Read Me_en.txt  
 ├── Read Me_vn.txt
 
 ├── Screenshots
@@ -54,7 +53,7 @@
 
 **File Descriptions:**
 - `Defect Log.xlsx`: Records all defects discovered during the testing process.
-- `Manual Testing - Moriitalia.com.xlsx`: Detailed test case list for core functionalities.
+- `Functional Testing - Moriitalia.com.xlsx`: Detailed test case list for core functionalities.
 - `Smoke Testing - Moriitalia.com.xlsx`: Quick test of core functions to confirm system stability.
 - `Sumary Report.xlsx`: Final report summarizing test results, bug statistics, and pass/fail rates.
 
