@@ -61,21 +61,21 @@
 
 📅 Project Timeline (Sprint):
 
-🔹 **Sprint 1: Analysis & Test Case Design**  
+🔹 **Stage 1: Analysis & Test Case Design**  
 ⏱ Duration: 28.09.2025 – 03.10.2025  
 📌 Activities:
 - Functional analysis of the Moriitalia.com website.
 - Writing test cases for core functionalities.
 - Preparing test and bug log files.
 
-🔹 **Sprint 2: Test Execution & Defect Logging**  
+🔹 **Stage 2: Test Execution & Defect Logging**  
 ⏱ Duration: 05.10.2025 – 10.10.2025  
 📌 Activities:
 - Executing test cases manually.
 - Logging defects into Defect Log.xlsx.
 - Performing smoke testing to confirm system stability.
 
-🔹 **Sprint 3: Compilation & Reporting**  
+🔹 **Stage 3: Compilation & Reporting**  
 ⏱ Duration: 12.10.2025 – 17.10.2025  
 📌 Activities:
 - Consolidating all testing results.
