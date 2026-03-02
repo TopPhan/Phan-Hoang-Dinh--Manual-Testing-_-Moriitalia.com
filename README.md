@@ -1,9 +1,9 @@
-📄 Project: Manual Testing – https://moriitalia.com  
-📅 Execution Period: September 28, 2025 – October 17, 2025
+![Status](https://img.shields.io/badge/Status-NOT_READY_FOR_DEPLOY-red?style=for-the-badge)
+![Pass Rate](https://img.shields.io/badge/Pass_Rate-85.5%25-green?style=for-the-badge)
+![Bugs Found](https://img.shields.io/badge/Bugs_Found-24-orange?style=for-the-badge)
+## Project: Manual Testing – https://moriitalia.com  
 
-👤 Tester: Hoàng Đỉnh
-
-A manual testing project targeting [Moriitalia.com](https://moriitalia.com) — a Vietnamese e-commerce website selling kitchen and lifestyle products. Covers **Black Box Functional Testing** and **Smoke Testing** across 10 core modules, with complete test case documentation, defect logging, and a final summary report.
+A manual testing project targeting [Moriitalia.com](https://moriitalia.com) — a Vietnamese e-commerce website selling kitchen and lifestyle products. Covers **Black Box Functional Testing** and **Smoke Testing** across 10 core modules, with complete test case documentation, defect logging, and a summary report.
 <img width="1351" height="565" alt="image" src="https://github.com/user-attachments/assets/e294e946-0adb-492f-b390-60d9142a103e" />
 
 ---
