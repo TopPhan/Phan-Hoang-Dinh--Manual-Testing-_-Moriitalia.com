@@ -1,6 +1,11 @@
-![Status](https://img.shields.io/badge/Status-NOT_READY_FOR_DEPLOY-red?style=for-the-badge)
 ![Pass Rate](https://img.shields.io/badge/Pass_Rate-85.5%25-green?style=for-the-badge)
 ![Bugs Found](https://img.shields.io/badge/Bugs_Found-24-orange?style=for-the-badge)
+<br>
+![Testing Type](https://img.shields.io/badge/Testing_Type-Manual_Functional-blue?style=flat-square)
+![Technique](https://img.shields.io/badge/Technique-Black_Box-black?style=flat-square)
+![Tool](https://img.shields.io/badge/Tools-MS_Excel-green?style=flat-square&logo=microsoft-excel)
+![Fatal Bugs](https://img.shields.io/badge/Fatal_Bugs-5-red?style=flat-square)
+
 ## Project: Manual Testing – https://moriitalia.com  
 
 A manual testing project targeting [Moriitalia.com](https://moriitalia.com) — a Vietnamese e-commerce website selling kitchen and lifestyle products. Covers **Black Box Functional Testing** and **Smoke Testing** across 10 core modules, with complete test case documentation, defect logging, and a summary report.
