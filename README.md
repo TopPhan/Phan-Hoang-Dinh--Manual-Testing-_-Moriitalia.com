@@ -4,6 +4,12 @@
 👤 Tester: Hoàng Đỉnh
 
 A manual testing project targeting [Moriitalia.com](https://moriitalia.com) — a Vietnamese e-commerce website selling kitchen and lifestyle products. Covers **Black Box Functional Testing** and **Smoke Testing** across 10 core modules, with complete test case documentation, defect logging, and a final summary report.
+<img width="1351" height="565" alt="image" src="https://github.com/user-attachments/assets/e294e946-0adb-492f-b390-60d9142a103e" />
+
+---
+<img width="1319" height="559" alt="image" src="https://github.com/user-attachments/assets/d5472de7-921e-4e3e-aee9-93ccdacc457e" />
+
+
 
 ---
 
@@ -24,6 +30,21 @@ A manual testing project targeting [Moriitalia.com](https://moriitalia.com) — 
 ## 🌿 Project Overview
 
 This project performs a comprehensive **manual functional test** of the Moriitalia.com e-commerce platform, covering all critical user journeys from account registration through to order placement. The goal was to identify bugs, measure test coverage, and provide a quality assessment before release.
+
+---
+<img width="1213" height="509" alt="image" src="https://github.com/user-attachments/assets/39f95f16-c172-4411-91d1-98357b9dcb6a" />
+
+---
+<img width="1369" height="607" alt="image" src="https://github.com/user-attachments/assets/352ce401-83b1-424f-af38-0203763f90af" />
+
+---
+<img width="1371" height="619" alt="image" src="https://github.com/user-attachments/assets/ae7fd444-2cc5-4889-84a4-d75f8c6b0bd3" />
+
+---
+<img width="1339" height="589" alt="image" src="https://github.com/user-attachments/assets/d6dab609-5d43-4e8a-99d5-6bb6e6e41f30" />
+
+
+---
 
 | Metric | Target | Achieved |
 |---|---|---|
